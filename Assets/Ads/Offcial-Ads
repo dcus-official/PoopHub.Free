@@ -1,1 +1,3 @@
-
+return{
+   ["Offcial"] = {[1]="offcial_ads_poophub.png"}
+}
